@@ -1,5 +1,9 @@
-bc-events
+bc-events (deprecated)
 =========
+
+⚠️ Use bc-messages_ for the low-level client or django-britecore_ if using Django.
+
+
 
 Python client for interfacing with the BriteEvents API
 
@@ -89,3 +93,4 @@ This is not reccommended in normal web request usage, as there is no way to roll
 
 
 .. _django-britecore: https://github.com/IntuitiveWebSolutions/django-britecore
+.. _bc-messages: https://github.com/IntuitiveWebSolutions/bc-messages
